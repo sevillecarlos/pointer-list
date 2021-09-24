@@ -1,39 +1,23 @@
 # Pointer List
 An example of a Pointer List made in c ++.
 
-![Music Recommendation!](/assets/images/music-recommendation-image.png "Music Recommendation")
-
 # Built
 ## Development Technologies
-- Vue.js 
-- Vuex
-## Libraries
-- BootstrapVue
-## Plugins
-- [APlayer ](https://github.com/DIYgod/APlayer)
-
-# Live Demo
-Try it! [Music Recommendation ](https://music-recommendation.netlify.app/)
+C++
 
 # Getting Start
 ```
-git clone https://github.com/sevillecarlos/music-recommendation.git
+git clone https://github.com/sevillecarlos/pointer-list
 ```
 ### or Download the zip.
 ## Project setup
 ```
-npm install
+cd pointer-list
 ```
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+sh exe.bash
 ```
-### Create your .env file for the environment variables
-#### Server app URL
-* *VUE_APP_URL*
-
-## Typing Race Server
-Navigate to [Music Recommendation Server ](https://github.com/sevillecarlos/music-recommendation-server) to found the server for the app.
 
 # Author
 ## Carlos Alberto Sevilla Fernandez
@@ -42,7 +26,7 @@ Navigate to [Music Recommendation Server ](https://github.com/sevillecarlos/musi
 
 # Contributing
 Contributions, issues and feature requests are welcome!
-Feel free to check the [Issues Page](https://github.com/sevillecarlos/music-recommendation/issues).
+Feel free to check the [Issues Page](https://github.com/sevillecarlos/pointer-list/issues).
 
 # License
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
