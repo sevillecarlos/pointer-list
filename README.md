@@ -1,5 +1,5 @@
 # Pointer List
-An example of a Pointer List made in c ++.
+> An example of a Pointer List made in c ++.
 
 # Built
 ## Development Technologies
